@@ -1,4 +1,4 @@
-const {ping,validateURL}=require('../server')
+const {ping,validateURL}=require('../clientA')
 
 describe('Ping Function (Part A)',()=>{
 
